@@ -44,7 +44,7 @@ void loop() {
 
 ## Part C. Integrating input and output
 
-**Include a photo/movie of your raw circuit in action.**
+[Motor](https://www.youtube.com/watch?v=VN606gDgFkU&feature=youtu.be)
 
 ## Part D. Paper puppet
 
