@@ -1,14 +1,10 @@
 # Paper Puppets
 
-*A lab report by John Q. Student*
-
-## In this Report
-
-To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-Lab4). You'll need to describe your design, include a video of your paper display in operation, and upload any code you wrote to make it move.
+*A lab report by Tal Genkin*
 
 ## Part A. Actuating DC motors
 
-**Link to a video of your virbation motor**
+[Vibrating Motor](https://youtu.be/gCBmTMZoDb8)
 
 ## Part B. Actuating Servo motors
 
