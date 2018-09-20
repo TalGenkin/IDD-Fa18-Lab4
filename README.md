@@ -46,6 +46,8 @@ void loop() {
 
 [Motor](https://www.youtube.com/watch?v=VN606gDgFkU&feature=youtu.be)
 
+[Motor moving slower](https://youtu.be/i6GQygcZe2Q)
+
 ## Part D. Paper puppet
 
 **a. Make a video of your proto puppet.**
